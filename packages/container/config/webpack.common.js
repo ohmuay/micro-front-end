@@ -1,4 +1,5 @@
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const name = "yo";
 module.exports = {
   module: {
     rules: [
