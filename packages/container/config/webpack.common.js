@@ -1,5 +1,5 @@
 const HtmlWebpackPlugin = require("html-webpack-plugin");
-
+const name = "name";
 module.exports = {
   module: {
     rules: [
